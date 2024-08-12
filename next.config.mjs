@@ -6,6 +6,7 @@ import remarkGfm from 'remark-gfm'
 const nextConfig = {
   output: "export",
   pageExtensions: ['js', 'jsx', 'ts', 'tsx', 'mdx'],
+  basePath: '/0xbishop.github.io',
   experimental: {
     outputFileTracingIncludes: {
       '/articles/*': ['./src/app/articles/**/*.mdx'],
