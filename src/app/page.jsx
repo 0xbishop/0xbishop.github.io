@@ -12,7 +12,7 @@ import logoCPTS from '@/images/logos/CPTS.png'
 import logoCBBH from '@/images/logos/CBBH.png'
 import logoAWSCDA from '@/images/logos/AWSCDA.png'
 import logoCCNA from '@/images/logos/CCNA.png'
-
+import logoTAFE from '@/images/logos/TAFE.png'
 import image1 from '@/images/photos/image-1.jpg'
 import image2 from '@/images/photos/image-2.jpg'
 import image3 from '@/images/photos/image-3.jpg'
@@ -124,29 +124,43 @@ function Resume() {
       company: 'Hack The Box Certified Penetration Testing Specialist',
       title: 'HTB CPTS',
       logo: logoCPTS,
-      start: '2019',
+      start: '',
       end: '2023',
     },
     {
       company: 'Hack The Box Certified Bug Bounty Hunter',
       title: 'HTB CBBH',
       logo: logoCBBH,
-      start: '2014',
-      end: '2019',
+      start: '',
+      end: '2023',
     },
     {
       company: 'AWS Certified Developer – Associate',
       title: 'AWS - CDA',
       logo: logoAWSCDA,
-      start: '2011',
-      end: '2014',
+      start: '',
+      end: '2019',
     },
     {
       company: 'Cisco Certified Network - Associate',
       title: 'CCNA',
       logo: logoCCNA,
-      start: '2008',
+      start: '',
       end: '2018',
+    },
+    {
+      company: 'Diploma of Information Technology Networking',
+      title: '',
+      logo: logoTAFE,
+      start: '',
+      end: '2018',
+    },
+    {
+      company: 'Certificate III In Information, Digital Media and Technology',
+      title: '',
+      logo: logoTAFE,
+      start: '',
+      end: '2017',
     },
   ]
 

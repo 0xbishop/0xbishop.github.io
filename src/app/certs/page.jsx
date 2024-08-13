@@ -129,6 +129,18 @@ export default function Uses() {
           </Tool>
           
         </ToolsSection>
+
+        <ToolsSection title="Diploma of Information Technology Networking">
+          <Tool title="https://tafeqld.edu.au/course/19/19030/diploma-of-information-technology">
+          </Tool>
+          
+        </ToolsSection>
+
+        <ToolsSection title="Certificate III In Information, Digital Media and Technology">
+          <Tool title="https://tafeqld.edu.au/course/17/17940/certificate-iii-in-information-technology#course-overview-section">
+          </Tool>
+          
+        </ToolsSection>
       </div>
     </SimpleLayout>
   )
