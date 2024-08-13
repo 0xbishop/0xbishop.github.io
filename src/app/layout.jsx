@@ -7,7 +7,7 @@ export const metadata = {
   title: {
     template: '%s - Daniel',
     default:
-      'Daniel - ',
+      'Daniel',
   },
   description:
     'I’m Daniel. I make and break things.',

@@ -168,7 +168,7 @@ function Resume() {
     <div className=" ">
        <div className="">
           <ul role="list">
-            <SocialLink href="#" icon={GitHubIcon} className="mt-4">
+            <SocialLink href="https://github.com/0xbishop" icon={GitHubIcon} className="mt-4">
               Follow on GitHub
             </SocialLink>
             <SocialLink href="mailto:0xbishop@proton.me" icon={MailIcon} className="mt-6 border-t border-zinc-100 pt-8 dark:border-zinc-700/40">
@@ -204,11 +204,17 @@ export default async function Home() {
         </div>
         <div className="lg:order-first lg:row-span-2">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-            I’m Daniel and this is a working title.
+           Hello Friend.
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
             <p>
-              todo. Chat Gippity
+            I’m Daniel, creator of exploits, hater of Java.
+            </p>
+            <p>
+            
+            <Link 
+              href="https://app.hackthebox.com/profile/47669" 
+              className="group flex text-sm font-medium text-zinc-800 transition hover:text-teal-500 dark:text-zinc-200 dark:hover:text-teal-500">Hack The Box enjoyer.</Link>
             </p>
  
           </div>
